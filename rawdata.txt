@@ -1,3 +1,0 @@
-I love natural language processing.
-Artificial intelligence is changing the world.
-Tokenization is an important step in language models.
