@@ -1,0 +1,20 @@
+WordPiece Tokenization
+----------------------
+help -> h ##e ##l ##p
+helper -> h ##e ##l ##p ##e ##r
+helping -> h ##e ##l ##p ##i ##n ##g
+helped -> h ##e ##l ##p ##e ##d
+help -> h ##e ##l ##p
+helper -> h ##e ##l ##p ##e ##r
+work -> w ##o ##r ##k
+worker -> w ##o ##r ##k ##e ##r
+working -> w ##o ##r ##k ##i ##n ##g
+worked -> w ##o ##r ##k ##e ##d
+work -> w ##o ##r ##k
+worker -> w ##o ##r ##k ##e ##r
+teach -> t ##e ##a ##c ##h
+teacher -> t ##e ##a ##c ##h ##e ##r
+teaching -> t ##e ##a ##c ##h ##i ##n ##g
+taught -> t ##a ##u ##g ##h ##t
+teach -> t ##e ##a ##c ##h
+teacher -> t ##e ##a ##c ##h ##e ##r
